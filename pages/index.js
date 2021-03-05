@@ -70,7 +70,7 @@ export default function IndexPage() {
 
             <main>
                 <h1 className="text-5xl text-indigo-400 font-bold text-center pt-10">
-                    Welcome to Next.js with Tailwind CSS!
+                    Welcome to Next.js with Tailwind!
                 </h1>
             </main>
         </div>
