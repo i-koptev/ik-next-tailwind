@@ -4,7 +4,7 @@ export default function IndexPage() {
     return (
         <div>
             <Head>
-                <title>Next eith Tailwindcss</title>
+                <title>Next with Tailwindcss</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
