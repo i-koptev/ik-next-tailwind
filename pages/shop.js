@@ -173,11 +173,11 @@ export default function Card() {
                                 </div>
                                 <p className="mt-8 text-gray-400">
                                     {" "}
-                                    A108 Adam Street <br /> New York, NY 535022{" "}
-                                    <br /> United States <br />{" "}
+                                    Stark iela <br /> Rīga, LV-1019
+                                    <br /> Latvija <br />{" "}
                                     <strong>Phone:</strong> +1 5589 55488 55{" "}
                                     <br /> <strong>Email:</strong>{" "}
-                                    info@webcraft.com{" "}
+                                    developer@best.sample{" "}
                                 </p>
                                 <div className="relative w-20 h-20 mx-auto my-12 bg-blue-300 rotate-45">
                                     <div className="flex justify-center items-center absolute left-0 top-0 w-10 h-10 hover:-ml-1 hover:-mt-1 bg-blue-800 cursor-pointer">
